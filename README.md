@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AtosSilva/AtosSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Atos Silva**, a Control and Automation Engineering student at the Federal University of Pernambuco (UFPE) 🇧🇷.  
 
-Here are some ideas to get you started:
+I’m a member of the **Capibaribe Racing** Formula Student Electric team, working in the **Motor Control**, **Data Acquisition**, and **Telemetry** areas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here, I share some of our team’s projects as well as personal projects related to **motorsport** and **robotics**.
+
+---
+
+🚀 **Interests:**
+- Embedded systems & real-time control  
+- CAN bus communication & telemetry  
+- Automotive electronics & control strategies  
+- Robotics and automation
+
+📫 **How to reach me:** atos13leao@gmail.com
