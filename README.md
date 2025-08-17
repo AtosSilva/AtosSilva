@@ -14,4 +14,4 @@ Here, I share some of our team’s projects as well as personal projects related
 - Automotive electronics & control strategies  
 - Robotics and automation
 
-📫 **How to reach me:** atos13leao@gmail.com
+📫 **How to reach me:** www.linkedin.com/in/atos-silva-8062a8322 || atos13leao@gmail.com
